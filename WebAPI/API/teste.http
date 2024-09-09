@@ -1,0 +1,6 @@
+### Requisição para a raiz da aplicação
+GET http://localhost:5114
+
+### Requisição para a segunda funcionalidade
+GET http://localhost:5114/segundafuncionalidade
+
